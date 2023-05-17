@@ -1,5 +1,4 @@
 <h1>Hola a todos 👋</h1>
-<img src="https://media.giphy.com/media/CXnj3jCwvETngjy11B/giphy-downsized-large.gif" alt="">
 
 Soy Farit, un desarrollador trainee apasionado por la programación y el desarollo web. He adquirido conocimientos en diferentes áreas de desarrollo, incluyendo Java, SQL, Oracle, HTML, CSS y JavaScript.
 
@@ -10,6 +9,13 @@ Mi objetivo es seguir creciendo como profesional y obtener experiencia laboral e
 ¡Gracias por visitar mi perfil de Github!
 
 ¡Espero que disfrutes explorando mi trabajo!"
+
+<h3>📊 Estadísticas</h3>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Farit-albavi&theme=dark&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farit-albavi&layout=donut)](https://github.com/farit-albavi/github-readme-stats)
+
 
 <!--
 **Farit-Albavi/Farit-Albavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
