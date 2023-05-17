@@ -1,4 +1,5 @@
-### Hola a todos 👋
+<h1>Hola a todos 👋</h1>
+<img src="https://media.giphy.com/media/CXnj3jCwvETngjy11B/giphy-downsized-large.gif" alt="">
 
 Soy Farit, un desarrollador trainee apasionado por la programación y el desarollo web. He adquirido conocimientos en diferentes áreas de desarrollo, incluyendo Java, SQL, Oracle, HTML, CSS y JavaScript.
 
