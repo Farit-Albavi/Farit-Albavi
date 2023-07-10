@@ -8,7 +8,7 @@ Mi objetivo es seguir creciendo como profesional y obtener experiencia laboral e
 
 ¡Gracias por visitar mi perfil de Github!
 
-¡Espero que disfrutes explorando mi trabajo!"
+¡Espero que disfrutes explorando mi trabajo!
 
 <h3>📊 Estadísticas</h3>
 
