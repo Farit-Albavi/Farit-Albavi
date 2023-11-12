@@ -1,10 +1,20 @@
 <h1>Hola a todos 👋</h1>
 
-Soy Farit, un desarrollador trainee apasionado por la programación y el desarollo web. He adquirido conocimientos en diferentes tecnologías, incluyendo Java, SQL, Postgres, HTML, CSS y JavaScript, ReactJs, etc.
+Soy Farit, un desarrollador trainee apasionado por la programación y el desarollo web. He adquirido conocimientos en diferentes tecnologías.
 
 Estoy constantemente aprendiendo y actualizándome en nuevas tecnologías y frameworks para ampliar mi conocimiento y estar al día en el mundo del desarrollo web, frontend como backend.
 
 Mi objetivo es seguir creciendo como profesional y obtener experiencia laboral en el campo de desarrollo web. Estoy dispuesto a enfrentar nuevos desafíos y trabajar en proyectos emocionantes.
+
+Tecnologias Frontend que utilizo
+*HTML, CSS, JAVASCRIPT
+*React, Tailwind, Bootstrap
+
+Tecnologias Backend que utilizo
+*Java / Springboot
+
+Base de datos relacionales
+*Postgres
 
 ¡Gracias por visitar mi perfil de Github!
 
