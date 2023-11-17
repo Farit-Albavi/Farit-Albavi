@@ -16,6 +16,13 @@ Tecnologias Backend que utilizo
 Base de datos relacionales
 *Postgres
 
+<ul> 
+  <li> 
+    hola
+  </li>
+</ul>>
+
+
 ¡Gracias por visitar mi perfil de Github!
 
 ¡Espero que disfrutes explorando mi trabajo!
