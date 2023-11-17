@@ -45,7 +45,7 @@ Base de datos relacionales
   <li> 
     Postgres
   </li>
-</ul>>
+</ul>
 
 
 
