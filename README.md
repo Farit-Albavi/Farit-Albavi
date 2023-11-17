@@ -42,6 +42,7 @@ Tecnologias Backend que utilizo
 </ul>
 
 Base de datos relacionales
+
 <ul> 
   <li> 
     Postgres
