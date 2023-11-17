@@ -6,7 +6,7 @@ Estoy constantemente aprendiendo y actualizándome en nuevas tecnologías y fram
 
 Mi objetivo es seguir creciendo como profesional y obtener experiencia laboral en el campo de desarrollo web. Estoy dispuesto a enfrentar nuevos desafíos y trabajar en proyectos emocionantes.
 
-Tecnologias Frontend que utilizo
+Tecnologias Frontend que utilizo:
 <ul> 
   <li> 
     HTML
@@ -25,7 +25,7 @@ Tecnologias Frontend que utilizo
   </li>
 </ul>
 
-Tecnologias Backend que utilizo
+Tecnologias Backend que utilizo:
 <ul> 
   <li> 
     Java
@@ -41,7 +41,7 @@ Tecnologias Backend que utilizo
   </li>
 </ul>
 
-Base de datos relacionales
+Base de datos relacionales:
 
 <ul> 
   <li> 
