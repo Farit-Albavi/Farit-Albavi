@@ -40,6 +40,7 @@ Tecnologias Backend que utilizo
     Asp.net core
   </li>
 </ul>
+
 Base de datos relacionales
 <ul> 
   <li> 
