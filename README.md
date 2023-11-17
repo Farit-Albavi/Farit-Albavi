@@ -9,18 +9,46 @@ Mi objetivo es seguir creciendo como profesional y obtener experiencia laboral e
 Tecnologias Frontend que utilizo
 *HTML, CSS, JAVASCRIPT
 *React, Tailwind, Bootstrap
-
-Tecnologias Backend que utilizo
-*Java / Springboot
-
-Base de datos relacionales
-*Postgres
-
 <ul> 
   <li> 
-    hola
+    HTML
+  </li>
+  <li> 
+    CSS
+  </li>
+    <li> 
+    JavaScript
+  </li>
+    <li> 
+      React
+    </li>    
+  <li> 
+      Tailwind
   </li>
 </ul>>
+
+Tecnologias Backend que utilizo
+<ul> 
+  <li> 
+    Java
+  </li>
+  <li> 
+    Springboot
+  </li>
+    <li> 
+    c#
+  </li>
+    <li> 
+    Asp.net core
+  </li>
+</ul>>
+Base de datos relacionales
+<ul> 
+  <li> 
+    Postgres
+  </li>
+</ul>>
+
 
 
 ¡Gracias por visitar mi perfil de Github!
