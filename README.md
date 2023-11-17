@@ -7,8 +7,6 @@ Estoy constantemente aprendiendo y actualizándome en nuevas tecnologías y fram
 Mi objetivo es seguir creciendo como profesional y obtener experiencia laboral en el campo de desarrollo web. Estoy dispuesto a enfrentar nuevos desafíos y trabajar en proyectos emocionantes.
 
 Tecnologias Frontend que utilizo
-*HTML, CSS, JAVASCRIPT
-*React, Tailwind, Bootstrap
 <ul> 
   <li> 
     HTML
@@ -25,7 +23,7 @@ Tecnologias Frontend que utilizo
   <li> 
       Tailwind
   </li>
-</ul>>
+</ul>
 
 Tecnologias Backend que utilizo
 <ul> 
@@ -41,7 +39,7 @@ Tecnologias Backend que utilizo
     <li> 
     Asp.net core
   </li>
-</ul>>
+</ul>
 Base de datos relacionales
 <ul> 
   <li> 
